@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quick Event Scheduler</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pop_up">PopUpActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+</resources>

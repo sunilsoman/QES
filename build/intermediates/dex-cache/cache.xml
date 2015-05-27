@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/pre-dexed/debug/classes-c965432dc5577f81caa96b41e5aecf4cddc5c893.jar" />
+    </item>
+    <item
+        jar="/Users/sunil/Desktop/QuickEventScheduler/app/libs/Google-2.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ce82857aa71286e34423d16e59ad7c551972d6f7">
+        <dex dex="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/pre-dexed/debug/Google-2.8.0-5dab12f0ab4fdf9a13232d88d8f92d11bd9d4ec8.jar" />
+    </item>
+    <item
+        jar="/Users/sunil/Desktop/QuickEventScheduler/app/libs/temboo-android-sdk-core-2.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aee0dae2ae03743470ece7b9fd8281804cc605f2">
+        <dex dex="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/pre-dexed/debug/temboo-android-sdk-core-2.8.0-e9b12c180cfb931194e482d791af125a39de4bd5.jar" />
+    </item>
+    <item
+        jar="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/exploded-aar/QuickEventScheduler.libraries/tess-two/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d67d401cd46e9db658e3a7c6e829213184b0fdd7">
+        <dex dex="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/pre-dexed/debug/classes-3f2d4f518ed4c7b452f07388b477bb183253563f.jar" />
+    </item>
+    <item
+        jar="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/pre-dexed/debug/classes-aaaa3e17eccf3efbbfe14fdc3c4343c1d88e4f10.jar" />
+    </item>
+    <item
+        jar="/Users/sunil/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-f8a9fd7845e35291d9331ca271ed40f04c850fa0.jar" />
+    </item>
+    <item
+        jar="/Users/sunil/Desktop/QuickEventScheduler/app/libs/JSON-java.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="865926da6983ebe952c160b52fa1f375de292e02">
+        <dex dex="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/pre-dexed/debug/JSON-java-26a4e59c3e78f55ba21f5e4e0c828d96a9e4903e.jar" />
+    </item>
+    <item
+        jar="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-383650ff231db162e95ae8623be7089f2c22ee1e.jar" />
+    </item>
+    <item
+        jar="/Users/sunil/Desktop/QuickEventScheduler/app/libs/jtar-1.0.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7">
+        <dex dex="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/pre-dexed/debug/jtar-1.0.4-10ffe67c15c590108580b20fcfcfe5c33c57aea2.jar" />
+    </item>
+    <item
+        jar="/Users/sunil/Desktop/QuickEventScheduler/app/libs/json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="/Users/sunil/Desktop/QuickEventScheduler/app/build/intermediates/pre-dexed/debug/json-simple-1.1.1-3036aac86afffa5ced7a0718f199f23d35109f16.jar" />
+    </item>
+
+</items>
